@@ -1,0 +1,7 @@
+{
+  "name": "Ethereal Gemini Tree",
+  "description": "A cinematic, gesture-controlled 3D Christmas experience powered by Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
